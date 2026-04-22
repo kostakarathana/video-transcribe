@@ -1,0 +1,5 @@
+mlx-whisper==0.4.3
+speechbrain==1.1.0
+scikit-learn==1.7.2
+librosa==0.11.0
+soundfile==0.13.1

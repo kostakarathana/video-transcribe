@@ -1,0 +1,314 @@
+Clean Transcript
+
+Speaker labels are inferred from three voice clusters:
+- Daughter: SPEAKER_04, 294.1s spoken
+- Father: SPEAKER_01, 1092.5s spoken
+- Mother: SPEAKER_02, 110.7s spoken
+
+Part 1 - raw-videos/1.mov
+[00:00:00.820 - 00:00:01.900] Daughter: Put that in there.
+[00:00:03.740 - 00:00:22.540] Mother: You think you're happy, but it's not actually happy. The only thing you're doing when you're there is hiding. Even Van says he doesn't get to have a good conversation with you. I know he'll probably tell you what you want to hear and they love you and they speak with
+[00:00:22.540 - 00:00:37.080] Father: you. Van said he's trying to talk to you about university and you you deflect you ignore him and you won't answer his questions and wait and Joe says exactly the same no no we need to be blunt but it's
+[00:00:37.080 - 00:00:39.360] Daughter: my turn well be blunt
+[00:00:42.660 - 00:00:50.300] Mother: so you're not you're not there being happy you're there hiding you're not you're not you're not
+[00:00:51.520 - 00:01:02.460] Mother: socializing, you're just literally going into the room and shutting the door. That's why you're happy because you're in your own head at the moment. You're not participating as part of a greater family.
+[00:01:03.220 - 00:01:08.060] Father: Well, no, it's, it's, it's, I want to, I want to, I want to expand on that.
+[00:01:09.340 - 00:01:18.460] Father: Because I've got more to say than what you said. Which is, when you go into a room, whether you're here at Vance Place or at Joe's Place, what you're actually doing is you're hiding from reality.
+[00:01:20.300 - 00:01:43.640] Father: You're not facing up to what your responsibilities are and you're hiding. And whenever anything gets tough, Chloe Cummings, you're going in a room and you're hiding in the four walls and you're going, oh my god, this is good, it's a safe place. I don't have to worry. No one's asking me any questions. I don't want anyone to ask me any questions. Don't ask me any questions. This is it. I'm safe. I'm safe. that's not reality
+[00:01:45.740 - 00:01:48.900] Father: that's avoiding what tomorrow is
+[00:01:50.680 - 00:01:55.980] Father: and the mere fact that you've just said there and there that what you've done is you've just feared again this semester
+
+Part 2 - raw-videos/2.mov
+[00:00:00.000 - 00:00:13.520] Mother: And I'm really disgusted at you. You need to sort your life out. The fact that you've just said that you need to take a deferment so you don't do any studies, so you can work out what you want. What do you want? Do you not like the subject?
+[00:00:13.740 - 00:00:21.000] Daughter: No, I'm trying to figure out what I want to do. I decided, and I actually expressed that to Dad the other day.
+[00:00:21.180 - 00:00:23.860] Mother: Anyway, so you're not happy with the course you're doing?
+[00:00:23.860 - 00:00:32.040] Daughter: Yeah, and I expressed that to dad the other day and said, oh, I'm interested in business, but not the data science anymore.
+[00:00:32.220 - 00:00:52.580] Mother: I'm thinking of doing... You need to pull your socks in and up and start just locking in. Because you are going around and around and around in circles and your life is going to pass you by and you will have nothing. You will have absolutely nothing. And you will have, you know, all you're doing is alienating us, your family.
+[00:00:53.860 - 00:01:05.200] Mother: bothered coming home and spending 10 minutes or having a conversation and this is where this has got to because you just want to come home hide but i
+[00:01:05.200 - 00:01:07.860] Daughter: don't like and the fact that you just
+[00:01:07.860 - 00:01:13.440] Father: turned around to me and said to me i'm fucking banned and i can't look at that anymore it's
+[00:01:13.440 - 00:01:19.680] Daughter: disgusting it's what i've been told i was just questioning you're being told by who the ato
+
+Part 3 - raw-videos/3.mov
+[00:00:00.000 - 00:00:03.920] Mother: Because we think that you just need a base.
+[00:00:04.100 - 00:00:27.300] Father: You're fucking lost. You're all fucking lost. You wander between he and Joe's house and fucking Ben's house. You're fucking dog walking. You're working at fucking Rockway. You're not fucking doing anything at uni. You're not doing anything positive. You're not facing the realities of fucking life. And you're not fucking moving forward. And you've got no future prospects.
+[00:00:30.000 - 00:00:32.580] Father: And I'm fucking talking bluntly, not like your fucking mother.
+[00:00:35.180 - 00:00:50.200] Father: I come from fucking nothing. And I know how to fucking grow, Chloe. And you're not fucking growing. All you want to do is professionally make excuses. Why you can't face reality.
+[00:00:53.440 - 00:00:58.460] Father: And I'm telling you now. You're a girlfriend and Costa's a boyfriend.
+[00:01:00.000 - 00:01:07.500] Father: up with you tomorrow you're nowhere do you understand that yeah and what will life be then
+[00:01:10.040 - 00:01:12.740] Daughter: the same yeah well what
+[00:01:12.740 - 00:01:23.880] Father: you're gonna go and live in vans and joe's house when you're broken up with your boyfriend you're living in their house because you're costa's girlfriend not because you're Chloe Cummings.
+[00:01:28.320 - 00:01:36.680] Father: You need to fucking get a grip on reality, Jamie. And if you've got shit to say about me as your father, come and fucking say it.
+[00:01:37.000 - 00:01:39.180] Daughter: I just did. That was all I had to say.
+[00:01:39.520 - 00:01:40.940] Father: And I fucking answered you.
+[00:01:44.520 - 00:01:47.940] Father: You've been weighed, measured and fucking answered, Jamie.
+[00:01:48.500 - 00:01:48.800] Daughter: Yep.
+[00:01:49.820 - 00:02:10.740] Father: and when you've completed one fucking degree you can come and chat to me when you've completed two degrees you can come and chat to me when you've completed two master's degrees you can come and chat to me when you've completed five fucking diplomas you can come and chat to me when you've lectured that university at that master's level you can come and talk to me
+[00:02:12.400 - 00:02:17.060] Father: right now what have you fucking done compared to me nothing that's right
+[00:02:18.800 - 00:02:20.860] Father: You've not even fucking moved out of home.
+[00:02:22.180 - 00:02:25.320] Father: You live like your boyfriend's fucking mother and father's place.
+[00:02:29.140 - 00:02:30.740] Father: You've not moved out of home.
+[00:02:34.740 - 00:02:41.960] Father: I moved out of home when I 16 years of fucking age. And then after that I've fucking lived my whole fucking life out of home.
+[00:02:43.420 - 00:02:46.320] Father: Right now I'm in my 61st fucking year.
+[00:02:49.260 - 00:02:56.960] Father: I've actually been at home for 45 fucking years Chloe, living on my own.
+[00:02:58.680 - 00:03:06.900] Father: I paid for all my fucking degrees out of my own pocket, while paying for home, working a job, I'm paying for a fucking mortgage.
+[00:03:09.020 - 00:03:11.740] Father: Not what you think living out of home is.
+[00:03:13.240 - 00:03:18.860] Father: I've lived on three fucking different continents, three different fucking lives.
+[00:03:25.360 - 00:03:28.100] Father: You need to get your shit together Chloe.
+[00:03:30.100 - 00:03:56.080] Father: running from here to fucking there to there isn't being a fucking human and functioning properly do you understand that do you understand no well here's the thing do you think you will own a home for three million dollars as a dog walker it's
+[00:03:56.080 - 00:03:59.280] Daughter: not a career path well
+[00:03:59.280 - 00:04:07.360] Father: what is a career path chloe i asked you when we were at breakfast where'd you see yourself five years i don't know i can't look that far
+[00:04:09.220 - 00:04:11.820] Mother: i can't look that far i don't
+[00:04:11.820 - 00:04:14.540] Father: think that far oh my god you know why
+[00:04:14.540 - 00:04:18.240] Mother: are asking me that and mine is that it's your career path
+[00:04:19.060 - 00:04:22.540] Father: tell me what your career path is I'm overly
+[00:04:22.540 - 00:04:25.640] Daughter: fucking keen I want to do something in business
+[00:04:25.640 - 00:04:27.580] Father: oh now it's back to business
+[00:04:29.040 - 00:04:31.560] Daughter: I'm allowed to make changes
+[00:04:32.140 - 00:04:52.720] Father: you've made so many fucking changes I don't know what the fuck you're doing and neither does your mum and neither do your two fucking brothers we've got no fucking idea where you want to be what you've done at university what your grades are what your academic results are, what your aspirations are. You hide it from us and everybody else.
+[00:04:56.900 - 00:04:59.060] Father: There's no clarity in what you do.
+[00:05:02.880 - 00:05:07.780] Father: There's no... When you look through a piece of glass, you can see through the other side of it, right?
+[00:05:08.300 - 00:05:08.540] Daughter: Yeah.
+[00:05:09.320 - 00:05:20.020] Father: But with you, you see that wall. And I told you, Sha, a white wall. You can't see the undie and all you say is, I'm a white wall.
+[00:05:21.240 - 00:05:22.240] Father: Why do you ask?
+[00:05:25.100 - 00:05:28.920] Father: What business is it if yours to ask me to wear my white legs?
+[00:05:37.400 - 00:05:38.600] Father: You don't get it, do you?
+[00:05:39.800 - 00:05:42.980] Father: You're not grown up or mature enough to get a Chloe.
+[00:05:45.780 - 00:05:46.860] Father: You're not.
+[00:05:49.540 - 00:06:06.440] Father: Whatever you think behind your eyes right now, you are immature. You're not grown up enough. You're not mature enough and you're not fucking getting it. And what you fucking need is guidance.
+[00:06:08.040 - 00:06:09.940] Father: You need a fucking mentor.
+[00:06:11.060 - 00:06:16.620] Father: Because right now, it's like a fucking sailboat in the ocean without a rudder.
+[00:06:17.880 - 00:06:25.420] Father: And with a sailboat, wherever the fucking wind blows, you go that way, you go this way, you go that way, you go this way. And you don't know where the fuck you're going.
+[00:06:28.340 - 00:06:32.720] Father: You don't know how to fucking steer yourself or where the fuck you're going.
+[00:06:38.820 - 00:06:42.940] Father: That's why Joe and Ben have said to Mum, you need to come home.
+[00:06:45.360 - 00:06:53.020] Daughter: They didn't say I need to come home. They said the most ideal situation would be that everyone's happy and that I'm back.
+[00:06:53.620 - 00:06:55.860] Father: Because they don't want to kick you out.
+[00:06:58.100 - 00:07:04.320] Father: So what they're actually saying, Chloe, is that you should go home for your own well -being.
+[00:07:07.200 - 00:07:08.780] Father: Which is the next best thing.
+[00:07:19.480 - 00:07:24.500] Daughter: I'm sorry that I asked about the tax ban.
+[00:07:24.660 - 00:07:26.060] Father: I don't give a fuck about that.
+[00:07:26.380 - 00:07:28.500] Daughter: Well, I'm just apologising for it.
+[00:07:28.820 - 00:07:33.420] Father: Well, you can have a go at your bathroom as much as you want.
+[00:07:33.640 - 00:07:34.800] Daughter: I wasn't having a go.
+[00:07:35.460 - 00:07:38.100] Father: But you know what? I've got crocodile fucking skin.
+[00:07:40.980 - 00:07:53.560] Father: I've been in the forces being shot at, being blown at and fucking run into bullets. So you, like, throwing a couple of little shit bits at me means fucking nothing. But you know what it is?
+
+Part 4 - raw-videos/4.mov
+[00:00:04.520 - 00:00:06.100] Daughter: Yeah, and I'm very...
+[00:00:06.100 - 00:00:09.200] Father: And it's the lowest you could degrade
+[00:00:09.200 - 00:00:12.100] Daughter: yourself to be. Well, I'm sorry that I asked that.
+[00:00:13.400 - 00:00:14.280] Father: It's on you.
+[00:00:16.740 - 00:00:18.940] Father: You've said it, and it will never go back.
+[00:00:19.280 - 00:00:20.960] Daughter: Yeah, that's fine, fine.
+[00:00:21.360 - 00:00:23.180] Father: It's not on me. It's on you.
+[00:00:28.240 - 00:00:30.060] Daughter: okay i've apologized
+[00:00:32.120 - 00:00:34.160] Father: it's not about apologizing chloe
+[00:00:37.400 - 00:00:40.020] Mother: is this really the relationship you want
+[00:00:40.020 - 00:00:48.160] Daughter: well i don't think it's very constructive the way that we communicate constructive are
+[00:00:48.160 - 00:00:49.180] Father: you fucking kidding
+[00:00:50.740 - 00:01:01.760] Daughter: we could figure out a better way to communicate 60 fucking seconds we could figure out a better way to communicate than yelling at each other you need
+[00:01:01.760 - 00:01:07.900] Father: to sort yourself out and you think you're cleverer than everyone else
+[00:01:07.900 - 00:01:10.080] Daughter: in the fucking room when did i say that
+[00:01:11.720 - 00:01:17.880] Father: it's not when you said it it's how you act because you question everything when someone
+[00:01:19.700 - 00:01:30.620] Father: and you deflect everything and because of that it's like and your attitude is like what? What are you asking? How dare you ask that?
+[00:01:31.240 - 00:01:34.600] Daughter: What do you know about that? I never said any of those talk to me about that.
+[00:01:35.100 - 00:01:36.280] Father: It's the way you are Chloe.
+[00:01:36.600 - 00:01:39.260] Daughter: And I never said I think I'm the smartest person in
+[00:01:39.260 - 00:01:44.000] Father: the room. Chloe, it's the way you are with me, your mother, your two brothers.
+[00:01:47.280 - 00:01:49.580] Father: you're actually too smart for your own good
+[00:01:51.960 - 00:01:53.920] Father: without actually being smart
+[00:01:56.560 - 00:02:27.400] Father: because you know what look at your dad i'm fucking dumb aren't i never said i'm fucking stupid right no go in my office and i've looked at all the fucking degrees on the floor next to printer i never said and i'll stop you right there i paid six hundred thousand dollars out for your education which is 1.2 million dollars gross dollars that one has to wear so i must be stupid right to
+[00:02:27.400 - 00:02:30.280] Daughter: have earned all that money i never said any of that
+[00:02:30.280 - 00:02:32.940] Father: i know you don't it's what you imply
+[00:02:32.940 - 00:02:43.740] Daughter: I never imply any of that. I'm sorry that you interpret that, but I've never said or Of course I interpret it, because it's
+[00:02:43.740 - 00:02:46.900] Father: you. It's what you give up and it's what you fucking say.
+[00:02:47.900 - 00:02:49.900] Daughter: When have I ever said any of that?
+[00:02:50.260 - 00:02:51.360] Father: It's when you've not.
+[00:02:55.120 - 00:02:57.680] Daughter: What do you mean, when I've not?
+[00:02:58.060 - 00:02:59.940] Father: What do you mean when I've not?
+[00:02:59.940 - 00:03:01.780] Daughter: I'm asking the question.
+[00:03:02.060 - 00:03:04.760] Father: When you say, you know, what do you
+[00:03:04.760 - 00:03:06.960] Daughter: know? When have I ever said that?
+[00:03:07.260 - 00:03:13.920] Father: It's what I want to do. It's, you know, it's a, you wouldn't understand it.
+[00:03:14.140 - 00:03:15.360] Daughter: When have I ever said that?
+[00:03:15.720 - 00:03:17.400] Father: Fucking every time we have a conversation.
+[00:03:17.400 - 00:03:18.560] Daughter: I don't say that.
+[00:03:19.320 - 00:03:19.840] Father: Do you?
+[00:03:23.320 - 00:03:26.420] Father: I don't. Should I start recording the conversations we have?
+[00:03:27.160 - 00:03:27.700] Daughter: Maybe.
+[00:03:28.760 - 00:03:29.640] Father: Well I will.
+[00:03:30.380 - 00:03:32.280] Daughter: Because I don't say I fucking will.
+[00:03:32.560 - 00:03:37.860] Father: And you know what? When you earn a fucking million dollars, you can fucking turn around and start telling Dad how to
+[00:03:37.860 - 00:03:39.860] Daughter: do it. I would never do that.
+[00:03:40.400 - 00:03:45.300] Father: Have you earned a hundred thousand dollars to date? No. No.
+[00:03:50.540 - 00:03:54.920] Father: Had I earned a hundred thousand dollars by the time I was your age? Yes or no?
+[00:03:55.620 - 00:03:56.540] Daughter: I don't know.
+[00:04:03.840 - 00:04:09.320] Daughter: of course i fucking had i didn't know how am i supposed to know well i
+[00:04:09.320 - 00:04:18.700] Father: don't afford like a million dollar properties two million dollar fucking boats and all the fucking lifestyles we've had throughout your whole fucking life hey
+[00:04:24.340 - 00:04:32.260] Father: If you had everything go Dad spent like 12 fucking million dollars Since you were born Where the fuck did that shit come from?
+[00:04:34.260 - 00:04:34.900] Father: Huh?
+[00:04:38.000 - 00:04:43.560] Father: Dad used to win When dad was working One fucking million dollars at least a year
+[00:04:45.300 - 00:04:46.320] Father: Every year
+[00:04:50.700 - 00:04:56.420] Father: not fucking 20 grand a year or 30 grand a fucking million dollars a year
+
+Part 5 - raw-videos/5.mov
+[00:00:00.000 - 00:00:03.760] Father: And I'll say one thing further, right?
+[00:00:05.220 - 00:00:12.140] Father: I actually, and mum and dad don't know what or where you're going with what you're doing.
+[00:00:14.300 - 00:00:16.860] Father: Like, dog walking seems to be a priority.
+[00:00:17.780 - 00:00:21.760] Daughter: Just a way to make money? What? They're just jobs.
+[00:00:21.760 - 00:00:29.600] Mother: No, no, wait. job's fine. It's if she was committed to uni, then having a job's fine. The fact that it's taking over is
+[00:00:29.600 - 00:00:30.380] Father: not. Honey,
+[00:00:31.920 - 00:00:32.900] Father: stop interjecting.
+[00:00:33.480 - 00:00:45.360] Mother: You know what? I'm done. Chloe, you need to pull your socks up. You need to commit to uni. Go to Rockwear. Go to uni. Come here. Sort your life out.
+[00:00:46.600 - 00:00:47.160] Daughter: Okay?
+[00:00:54.620 - 00:00:57.660] Father: Do you know how many arguments you've caused between me and your mother?
+[00:00:59.800 - 00:01:05.240] Daughter: I haven't caused anything. You are. You choose to argue with
+[00:01:05.260 - 00:01:05.820] Father: are. You
+
+Part 6 - raw-videos/6.mov
+[00:00:03.280 - 00:00:08.340] Father: Like right there and then. By trying to make mum fucking take sides.
+[00:00:08.620 - 00:00:11.240] Daughter: I wasn't trying to make anyone do anything.
+[00:00:11.580 - 00:00:34.720] Father: By trying to make mum take sides. I did I'll tell you what, Chloe, right? You need to take responsibility for your fucking own actions, right? And if you're going to be, and I'm going to say it plainly to you, if you're going to be a fucking no -ho, but just say it. if you want to go and fucking walk dogs and work at Rockway for the rest of your fucking life and be on a minimal fucking weight then tell us all and then we get it
+[00:00:36.140 - 00:00:38.960] Father: actually, I have the fucking gumption to say it
+[00:00:40.240 - 00:00:46.720] Daughter: you know what I've told you that I'm figuring it out and I've actually finally figured something out
+[00:00:46.720 - 00:00:49.440] Father: I mean figuring it out you figure shit out
+[00:00:49.440 - 00:00:52.200] Daughter: in a fucking day but don't tell me that I'm
+[00:00:52.200 - 00:00:54.120] Father: causing it's three fucking years
+[00:00:55.580 - 00:01:02.020] Daughter: mum because I'm not you have no you choose your
+[00:01:02.020 - 00:01:07.540] Father: mom and dad are together right we're fucking married we're not broken up
+[00:01:08.780 - 00:01:14.760] Father: then it's not a broken marriage and I haven't gone off and cheated on someone
+[00:01:16.300 - 00:01:23.800] Father: mum has an idea you come from a good fucking home I'm just you are the
+[00:01:25.580 - 00:01:33.540] Father: And I'll say this, the people who fucking like you, the way you were, is because this is the home you've come from.
+[00:01:35.100 - 00:01:37.900] Daughter: The way you were, what do you mean by that?
+[00:01:38.320 - 00:01:40.220] Father: Yeah, you're not that person anymore, Chloe.
+[00:01:40.700 - 00:01:41.640] Daughter: What do you mean?
+[00:01:43.880 - 00:01:47.220] Father: You are not Chloe Cummings anymore.
+[00:01:48.280 - 00:01:50.340] Daughter: What's wrong with growing and changing?
+[00:01:50.820 - 00:01:53.900] Father: Because whatever you've changed to, you're lost.
+[00:01:55.580 - 00:01:59.700] Father: no guidance and you can't guide yourself because you're not mature enough.
+[00:02:02.960 - 00:02:05.340] Daughter: Okay, but going back to when you said...
+[00:02:05.340 - 00:02:13.860] Father: And if you haven't got a guide... I'm going to tell you a couple of things. If you haven't got a guiding force in your life and you've got no one to show you where to go or what to do,
+[00:02:15.120 - 00:02:23.860] Father: you won't go anywhere. If you've got no future plans and you can't foresee anything in the next year, two, three, four or five years, you've got no future.
+[00:02:26.120 - 00:02:34.920] Father: If you lock yourself away and hide yourself away from any communication whatsoever every single fucking day in your life, it means you're scared of having communication.
+[00:02:36.160 - 00:02:42.380] Father: If you can't talk to anybody in all the three places that you go, it means that you're hiding constantly.
+[00:02:44.980 - 00:02:52.480] Father: So it means you're emotionally unstable, you can't make commitments and you're in complete indecision.
+[00:02:57.500 - 00:03:10.460] Father: like do you understand what all this is like when mum chatted to joe and we've spoken to van and then we've come to you yeah do you understand what it is yeah
+[00:03:10.460 - 00:03:16.180] Daughter: but i've spoken to them you're twisting their words like do you understand what
+[00:03:16.180 - 00:03:21.000] Father: it is yeah what's it called I don't know It's called an intervention
+[00:03:23.220 - 00:03:30.620] Father: It's when all the people around you see the same thing and then they come to you and say hey listen we're concerned about you
+[00:03:32.520 - 00:03:33.040] Daughter: Yeah
+[00:03:37.520 - 00:03:40.220] Father: Joe and Van are not your parents
+[00:03:42.640 - 00:03:43.940] Father: they're not family
+[00:03:46.980 - 00:03:49.700] Father: You're not related to them by blood
+[00:03:51.000 - 00:03:53.340] Father: Do you understand that?
+[00:03:54.080 - 00:03:54.280] Daughter: Yeah
+[00:03:55.640 - 00:04:05.440] Father: They're your boyfriend's parents They're both fucking divorced in separate relationships You're not their child
+[00:04:08.860 - 00:04:11.260] Father: You're not their responsibility
+[00:04:15.240 - 00:04:16.800] Father: and one step further
+
+Part 7 - raw-videos/7.mov
+[00:00:00.000 - 00:00:02.580] Father: The same as I've said to Connor and I've said to Jake.
+[00:00:04.040 - 00:00:20.760] Father: Under 18 you come under your mother and father's legal capability with regards to we look after you and we make all the decisions. Once you turn 18 you can do it if you want. And that's what I said to you. And I've said that to Connor and I've said it to Jake.
+[00:00:25.260 - 00:00:46.080] Father: You can do whatever you want. When I was 16 years of age and I joined the army, I had to get my mum to sign a special permission with the armed forces to allow me to go into the armed forces, because if I went when I was 16 years of age and I was killed, mum could sue the armed forces for my death because I wasn't 18.
+[00:00:52.440 - 00:00:58.620] Father: So you're 18 and you can make your own decisions. It doesn't mean the decisions you make are right, Chloe Cummings.
+[00:01:00.680 - 00:01:03.660] Father: My upbringing was very different from yours.
+[00:01:07.000 - 00:01:09.840] Father: I was street legal from the age of 10.
+[00:01:11.880 - 00:01:14.320] Father: You still don't know what street legal means.
+[00:01:22.580 - 00:01:30.540] Father: By the time I was 10 I'd been through the streets of hard knocks, had more fights than a fucking ball being hit by a bat.
+[00:01:32.820 - 00:01:40.240] Father: You've never had a fight in your whole fucking life. You don't understand what being streetwise is. You've got no idea.
+[00:01:42.260 - 00:01:44.980] Daughter: No, and I have you to be thankful for that.
+[00:01:45.700 - 00:01:50.760] Father: You're thankful because of your mother and father and the upbringing we've given you. That's what I just said.
+[00:01:51.060 - 00:01:54.120] Daughter: I'm very grateful. I understand that. very thankful for that.
+[00:01:54.180 - 00:02:05.580] Father: And the person that you are, Costa and their family and all the rest of it who made you that person who gave you the values that you had then you
+[00:02:05.580 - 00:02:11.060] Daughter: give me values but you don't make me into something Chloe your mother and father
+[00:02:11.660 - 00:02:59.240] Father: made you the person that you are at that point in time the person you are now we don't know who you are you are so far from the values I set as a human being I do not know where you're at and your mom doesn't know she's she's completely lost in who you are and your mom is trying to bend left right left right backwards and forwards and all the rest of it because she's trying to keep communications with you because you use emotional blackmail on here about me what to say that i'm telling you about me and your brothers and all the rest of it that you know you'll just disconnect completely from the whole fucking family so your mom actually will do
+[00:02:59.240 - 00:03:05.820] Father: anything that you fucking talk about or say and go oh yeah whatever chloe what
+[00:03:05.820 - 00:03:08.240] Daughter: what do you mean emotional blackmail
+[00:03:10.220 - 00:03:15.760] Father: anything like that you need to understand it you need to fucking read it no tell me what does emotional blackmail
+[00:03:15.760 - 00:03:23.760] Daughter: mean it means using emotions to blackmail someone tell me what i've done go on well there you go yeah tell me
+[00:03:23.760 - 00:03:33.960] Father: oh oh you know the reason i don't come home is because dad shouts you know and you know if he shouts then you know i just don't want to be there
+[00:03:37.420 - 00:03:40.640] Daughter: you've never said that yeah i have but not recently
+[00:03:40.640 - 00:03:43.440] Father: doesn't matter that's emotional blackmail it's
+[00:03:43.440 - 00:03:46.420] Daughter: not blackmail it's just expressing
+[00:03:46.420 - 00:04:02.680] Father: a feeling it is so yeah so your mom takes those feelings is going oh my god well holly's not talking to dad she's not talking to her brothers um if i if i tell her that what she's saying isn't right then she'll cut me off as well so none of us will have contacts with it.
+[00:04:02.920 - 00:04:06.080] Daughter: It's emotional blackmail. It's not blackmail.
+[00:04:07.200 - 00:04:10.560] Daughter: Expressing how I feel about something is not blackmail.
+[00:04:15.100 - 00:04:20.140] Father: Chloe, when you understand these things more, when you're a lot more mature than what you are actually now,
+[00:04:22.240 - 00:04:27.180] Father: you'll actually review it and then go, oh, in fact, I really did that.
+[00:04:34.380 - 00:04:41.060] Father: And this conversation right now isn't about your mother, or about me, or about anyone in the family, it's about you.
+[00:04:43.120 - 00:04:54.560] Father: See the thing is, your mum has done her degree, and she's had it in my life, and I've had my life, and I've done so many fucking things in my life. It's fucking unbelievable.
+[00:04:56.940 - 00:05:04.020] Father: and your brother Connor's getting on with his life and he completed his diploma of business which you fucking didn't do
+[00:05:09.860 - 00:05:26.500] Father: he finished his year 12 which you did and he's in his second year of university and fucking striving on I've got all his academic records and all the rest of it and passes exams and that's
+[00:05:26.500 - 00:05:29.280] Daughter: that's amazing for connor and
+[00:05:29.280 - 00:05:37.300] Father: crack jake's cracking on with his year 12 and it's a plumber of business as well that's
+[00:05:37.300 - 00:05:40.000] Daughter: amazing for them and i'm very proud of them yeah well
+[00:05:40.000 - 00:05:46.620] Father: you don't know because you don't know because you're not around so you don't know what the they do you
+[00:05:46.620 - 00:05:49.240] Daughter: never ask i don't have to be around i
+[00:05:49.240 - 00:05:59.540] Father: can't make you're the eldest out of the fucking siblings. You should be around to be supportive and you should be the fucking leader and so they can look up to you.
+[00:06:01.160 - 00:06:01.760] Mother: Look.
+[00:06:02.560 - 00:06:03.740] Father: What do you mean look?
+[00:06:03.880 - 00:06:04.880] Daughter: I don't know but
+[00:06:08.560 - 00:06:20.120] Daughter: I know I can make an effort to be more present and do more things with them but that's not this issue with us.
+[00:06:20.140 - 00:06:21.420] Father: missing out on everything.
+[00:06:22.540 - 00:06:35.360] Father: What you're saying, all I'm saying is, is you could be a part of this family and you've fucking chosen not to be. And right now, you're fucking lost. You're three years out of school.
+[00:06:37.460 - 00:06:39.980] Father: And you still don't know where the fuck you're going.
+[00:06:43.120 - 00:06:43.940] Father: Do you?
+[00:06:45.560 - 00:06:53.060] Daughter: No. And it's okay to make mistakes and learn and try and figure out. Thanks.
+[00:06:54.500 - 00:06:56.760] Father: So who are you talking this all out with?
+[00:07:01.080 - 00:07:05.620] Father: What do you mean? Well, who's helping you through this difficult time of indecision?
+
+Part 8 - raw-videos/8.mov
+[00:00:00.000 - 00:00:02.260] Daughter: A neutral perspective to help.
+[00:00:02.820 - 00:00:03.400] Father: A what?
+[00:00:04.040 - 00:00:06.060] Daughter: A neutral perspective.
+[00:00:06.560 - 00:00:07.260] Father: neutral role?
+[00:00:09.740 - 00:00:21.180] Father: Neutral perspective. Chloe Cummings, I took you to university. We went to Griffith. We looked at all the things. We asked all the questions. Yada, yada, yada. You were going to do fucking law. It was the thing.
+[00:00:21.300 - 00:00:29.220] Daughter: The only reason I wanted to do law was because you were saying that I should do law. You were like, oh, you should do law. And I did it to please you.
+[00:00:30.000 - 00:00:38.580] Father: degree is in in law I've done my degree in business finance and economics because that's what I like
+[00:00:44.420 - 00:01:02.640] Father: yeah and I've always said to you and I've said to the boys do what you want to do if you get up in the morning and I've said this to you before and you love what you do it'll be a breeze all day long never get up and do something that you hate have
+[00:01:02.640 - 00:01:05.480] Daughter: i not said that yes you have many times
+[00:01:05.480 - 00:01:06.340] Father: there you go
+[00:01:12.540 - 00:01:25.060] Father: and all i know you were committed to all of that and then the next thing cost to come home and then all i knew is that you quit out of that then the next thing you're changing degrees then the next
+[00:01:26.560 - 00:01:39.600] Father: some fucking programming fucking thing. Then the next thing, you're leaving home. Then the next thing, you're going to live in Brisbane at Joe's house because you want to attend class every
+
+Part 9 - raw-videos/9.mov
+[00:00:00.000 - 00:00:08.980] Daughter: Yes, but I don't think that you're understanding that I'm allowed to live where I want as well.
+[00:00:09.400 - 00:00:15.680] Father: You're not living anywhere else. You're at your boyfriend's mother and father's house. You haven't moved out. You're not renting somewhere.
+[00:00:21.920 - 00:00:29.040] Father: You haven't moved out and you've got your own unit and you're living there. You're at Joe's house or you're at Vance's house two minutes up the road.
+[00:00:31.720 - 00:00:33.560] Daughter: It's not two minutes up the road.
+[00:00:36.880 - 00:00:40.640] Father: It's your boyfriend's parents. And they're separated.
+[00:00:44.980 - 00:00:59.160] Father: Van's with some beard, but he's been with for the last fucking ten years behind Jo's back. And Jo's up there in Brisbane, and I don't know whether she's got a new boyfriend or she hasn't. And I'm sure she's trying to find a life for herself after fucking Van, the cheating twat.
+[00:01:00.200 - 00:01:01.520] Daughter: That's not nice, Dad.
+[00:01:01.720 - 00:01:02.720] Father: That's what he is.
+[00:01:09.760 - 00:01:11.040] Father: It's reality, Chloe.
+[00:01:16.080 - 00:01:17.600] Father: He cheated on Joe.
+[00:01:18.580 - 00:01:21.180] Daughter: That's got nothing to do with our conversation, Dad.
+[00:01:22.140 - 00:01:24.120] Father: It's reality. That's what it is.
+[00:01:24.180 - 00:01:27.020] Daughter: That's not our business. not a fact. It's not our business.
+[00:01:27.620 - 00:01:28.940] Father: It is my business.
+[00:01:32.120 - 00:01:34.860] Father: It's business to fucking know who they are.
+[00:01:35.340 - 00:01:41.020] Daughter: Yes, but saying nasty things isn't the It's not nasty, it's the truth.
+[00:01:43.400 - 00:01:45.220] Daughter: People make mistakes, dad.
+[00:01:46.960 - 00:01:49.580] Father: What, a 10 year fucking mistake of shagging a baby on
+[00:01:49.580 - 00:01:51.300] Daughter: his wife's back? Dad.
+[00:01:52.660 - 00:01:53.920] Father: Fucking flow, fuck.
+[00:01:59.120 - 00:02:00.260] Father: give a fuck
+[00:02:03.940 - 00:02:07.860] Father: he should have kept his fucking dick in his pants oh
+[00:02:07.860 - 00:02:13.780] Daughter: my god dad that's not our business that's not our conversation
+[00:02:13.780 - 00:02:16.480] Father: i don't care i can talk about anything the fuck i
+[00:02:16.480 - 00:02:19.940] Daughter: want i don't want to talk about that that's not
+[00:02:22.300 - 00:02:27.440] Father: Anyway, you haven't moved out of home You're living with your boyfriend's Fucking mum and dad
+[00:02:29.500 - 00:02:35.360] Father: One's two minutes Up the fucking road And the other one's in fucking Brisbane an hour away It's
+[00:02:35.360 - 00:02:38.420] Daughter: not two minutes I'm going to fire back It's 36
+[00:02:41.020 - 00:02:42.840] Father: Does it make any difference?
+[00:02:54.500 - 00:03:00.980] Father: both of those people have said you need to come home okay because they can't communicate with you i'm
+[00:03:00.980 - 00:03:03.860] Daughter: gonna talk to them about that as well you don't need to
+[00:03:03.860 - 00:03:08.560] Father: you know why because they're not your fucking parents
+[00:03:12.560 - 00:03:20.460] Father: they're your boyfriend's parents chloe cummings i know and you're living there because you're going out with their son.
+[00:03:22.560 - 00:03:24.220] Father: You're not their daughter.
+[00:03:24.820 - 00:03:25.180] Daughter: I know.
+[00:03:29.340 - 00:03:32.780] Daughter: I know. Do you understand? Yes.
+[00:03:33.100 - 00:03:34.120] Father: This is your home.
+[00:03:39.040 - 00:03:43.840] Daughter: I'm going to speak to them about what you've said, like, so I can get a clearer perspective.
+[00:03:44.280 - 00:03:45.840] Father: Great. You don't need...
+[00:03:47.780 - 00:03:49.040] Father: perspective do you need? Chloe!
